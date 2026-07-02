@@ -1,0 +1,12 @@
+acquirer_ticker,market_ticker,event_date,deal_name,sector,notes
+HDFCBANK.NS,^NSEI,2022-04-04,HDFC-HDFC Bank Merger,Indian Banking,Largest-ever Indian merger; USD ~40bn
+AXISBANK.NS,^NSEI,2022-03-30,Axis Bank-Citi India Consumer Business,Indian Banking,Axis acquired Citi's India consumer banking arm for ~USD 1.6bn
+IDFCFIRSTB.NS,^NSEI,2023-07-03,IDFC Limited-IDFC First Bank Merger,Indian Banking,Reverse merger; stock fell ~4% on announcement day
+COF,^GSPC,2024-02-19,Capital One-Discover Financial,US Consumer Finance,All-stock deal valued at USD 35.3bn
+UBS,^SSMI,2023-03-19,UBS-Credit Suisse,Global/Swiss Banking,Government-brokered emergency rescue merger
+FCNCA,^GSPC,2023-03-27,First Citizens BancShares-Silicon Valley Bank,US Banking,FDIC-assisted purchase of failed SVB
+JPM,^GSPC,2023-05-01,JPMorgan Chase-First Republic Bank,US Banking,FDIC-assisted acquisition after First Republic seizure
+NDAQ,^GSPC,2023-06-12,Nasdaq-Adenza,Capital Markets Fintech,Stock fell over 10% on announcement; seen as expensive
+BLK,^GSPC,2024-01-12,BlackRock-Global Infrastructure Partners,Asset Management,Target (GIP) was private; use acquirer-only reaction
+MS,^GSPC,2020-02-20,Morgan Stanley-E*TRADE,US Wealth Management,Largest US bank acquisition since 2008 at announcement
+AVGO,^GSPC,2022-05-26,Broadcom-VMware,Technology,Non-financial control/comparison deal
